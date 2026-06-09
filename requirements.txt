@@ -1,0 +1,4 @@
+numpy
+pyadi-iio
+PyQt5
+pyqtgraph
