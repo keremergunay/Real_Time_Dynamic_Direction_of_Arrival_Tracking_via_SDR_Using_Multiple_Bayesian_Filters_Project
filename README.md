@@ -9,7 +9,7 @@ This repository contains the EE4084 project implementation for real-time dynamic
 
 ## Project Presentation
 
-- YouTube Presentation Link: [https://youtu.be/W27EqYjI83k](https://youtu.be/W27EqYjI83k)
+- [YouTube Presentation Link](https://youtu.be/W27EqYjI83k)
 
 ## Project Overview
 
